@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/techtutors-satwikraj1213/static/css/main.f855e6bc.css",
+    "main.js": "/techtutors-satwikraj1213/static/js/main.4823da8b.js",
+    "static/js/453.ed3810f9.chunk.js": "/techtutors-satwikraj1213/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/techtutors-satwikraj1213/index.html",
+    "main.f855e6bc.css.map": "/techtutors-satwikraj1213/static/css/main.f855e6bc.css.map",
+    "main.4823da8b.js.map": "/techtutors-satwikraj1213/static/js/main.4823da8b.js.map",
+    "453.ed3810f9.chunk.js.map": "/techtutors-satwikraj1213/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.4823da8b.js"
+  ]
+}
